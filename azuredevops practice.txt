@@ -1,0 +1,5 @@
+azure devops
+
+repos credentials
+u.n:knaveen957kumar
+p:3gdbksopsrmqnmsqcv46arvjcs6vy73hp2yderf2tn6umxxkzgaa
